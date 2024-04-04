@@ -1,0 +1,71 @@
+Origin City,Destination City,Duration,Distance
+Dubai,Seattle,880,7400
+Seattle,Dubai,875,7453
+Seattle,Boston,320,2485
+Boston,Seattle,385,2496
+Seattle,Chicago,240,1721
+Chicago,Seattle,280,1733
+Dubai,San Francisco,960,8103
+San Francisco,Dubai,940,8079
+San Francisco,Vancouver,150,805
+Vancouver,San Francisco,145,800
+Dubai,Los Angeles,980,8339
+Los Angeles,Dubai,950,8316
+Los Angeles,Washington,290,2294
+Washington,Los Angeles,360,2311
+Chicago,Dubai,805,7233
+Dubai,Chicago,900,7246
+Chicago,Boston,135,867
+Boston,Chicago,180,865
+Dubai,Washington,875,7069
+Washington,Dubai,780,7058
+Washington,Kansas,170,949
+Kansas,Washington,140,943
+Chicago,Denver,165,888
+Denver,Chicago,145,887
+Washington,Houston,220,1219
+Houston,Washington,175,1208
+Dubai,Houston,995,8168
+Houston,Dubai,890,8166
+Dubai,Dallas,980,8040
+Dallas,Dubai,885,8024
+Dallas,Jamaica,234,1546
+Jamaica,Dallas,256,1560
+Washington,Orlando,145,759
+Orlando,Washington,135,757
+Dubai,Orlando,965,7754
+Orlando,Dubai,850,7738
+Dubai,Miami,950,7845
+Miami,Dubai,855,7829
+Mexico City,Barcelona,645,5900
+Barcelona,Dubai,385,3209
+Dubai,Barcelona,450,3221
+Barcelona,Mexico City,770,5924
+London,Mexico City,715,5550
+Mexico City,London,615,5541
+London,Dubai,415,3400
+Dubai,London,475,3420
+Dubai,Toronto,855,6899
+Toronto,Dubai,780,6877
+Boston,Toronto,115,446
+Toronto,Boston,95,434
+Chicago,Toronto,100,436
+Toronto,Chicago,125,437
+Montreal,Dubai,730,6593
+Dubai,Montreal,815,6611
+Montreal,Ottawa,50,94
+Ottawa,Montreal,55,102
+Toronto,Calgary,265,1683
+Calgary,Toronto,230,1675
+Calgary,Vancouver,100,419
+Vancouver,Calgary,105,428
+Dubai,Rio de Janeiro,890,7385
+Rio de Janeiro,Dubai,875,7376
+Dubai,Sao Paulo,930,7597
+Sao Paulo,Dubai,895,7592
+Sao Paulo,Lima,315,2160
+Lima,Sao Paulo,300,2147
+Rio de Janeiro,Buenos Aires,200,1223
+Buenos Aires,Rio de Janeiro,180,1222
+Mexico City,Caracas,300,2234
+Caracas,Mexico City,300,2224
